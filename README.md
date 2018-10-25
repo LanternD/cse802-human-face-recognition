@@ -22,4 +22,8 @@ Check the file "project.pdf" for detail.
 
 # Where Are The Data?
 
-When we worked on this project, the image data are stored on [HPCC](https://icer.msu.edu/) (High Performance Computation Center). If you are interested in this project, check the reference [2] and [3] in the "project.pdf"
+When we worked on this project, the image data are stored on [HPCC](https://icer.msu.edu/) (High Performance Computation Center) server. If you are interested in this project, check the reference [2] and [3] in the "project.pdf"
+
+# Others
+
+- [BLUFR](http://www.cbsr.ia.ac.cn/users/scliao/projects/blufr/)
