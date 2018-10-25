@@ -1,0 +1,17 @@
+#!/bin/bash -login
+
+#PBS -N cse802_proj_casia_v10
+#PBS -l nodes=1:ppn=1:gpus=2:shared
+#PBS -l feature='gpgpu:intel16'
+#PBS -l walltime=30:00:00
+#PBS -l mem=40gb
+#PBS -o /mnt/home/sunmeng2/cse802proj/o_hpcc
+#PBS -e /mnt/home/sunmeng2/cse802proj/e_hpcc
+#PBS -m bea
+
+source /opt/software/tensorflow/0.12/usetfgpu12
+source /mnt/home/sunmeng2/myPy/bin/activate
+
+python /mnt/home/sunmeng2/CSE802FP/cnn_main.py
+
+# qstat -f $PBS_JOBID

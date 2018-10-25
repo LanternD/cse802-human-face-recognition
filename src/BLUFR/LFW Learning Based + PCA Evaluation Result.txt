@@ -1,0 +1,94 @@
+learning-based (LE) descriptor
+
+Load data...
+
+Evaluation with 10 trials.
+
+Process the 1th trial...
+
+Start to train PCA...6.42 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 8.99782%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 5.8154%.
+
+Process the 2th trial...
+
+Start to train PCA...9.71 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 8.53025%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 4.71722%.
+
+Process the 3th trial...
+
+Start to train PCA...13.5 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 10.8537%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 5.38368%.
+
+Process the 4th trial...
+
+Start to train PCA...12.9 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 10.8004%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 5.13666%.
+
+Process the 5th trial...
+
+Start to train PCA...12.3 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 9.44427%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 6.13539%.
+
+Process the 6th trial...
+
+Start to train PCA...9.08 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 9.01489%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 5.11811%.
+
+Process the 7th trial...
+
+Start to train PCA...8.68 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 9.08184%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 5.52775%.
+
+Process the 8th trial...
+
+Start to train PCA...11.6 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 10.2593%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 4.9188%.
+
+Process the 9th trial...
+
+Start to train PCA...12.5 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 11.8681%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 4.47914%.
+
+Process the 10th trial...
+
+Start to train PCA...8.37 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 8.60066%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 5.49379%.
+
+Evaluation time: 179 seconds.
+
+The fused (mu - sigma) performance:
+
+Verification:
+	@ FAR = 0.1%: VR = 8.61%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 4.77%.

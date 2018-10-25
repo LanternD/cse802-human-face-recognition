@@ -1,0 +1,7 @@
+﻿,LE (Learning-based descriptors),,High Dimensional LBP,,CNN Model 3,
+Feature size,20736,,127440,,3456,
+Method,PCA,LDA,PCA,LDA,PCA,LDA
+Verification,8.94%,20.95%,8.20%,30.86%,10.54%,13.02%
+@ FAR = 0.1%: ,,,,,,
+Open-set Identification,4.93%,13.39%,5.32%,17.46%,2.66%,3.39%
+@ Rank = 1,,,,,,

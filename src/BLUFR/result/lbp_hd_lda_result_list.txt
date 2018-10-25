@@ -1,0 +1,83 @@
+Load data...
+
+Evaluation with 10 trials.
+
+Process the 1th trial...
+
+Error getting SCIF driver version
+Verification:
+        @ FAR = 0.1%: VR = 29.8977%.
+Open-set Identification:
+        @ Rank = 1, FAR = 1%: DIR = 18.8328%.
+
+Process the 2th trial...
+
+Verification:
+        @ FAR = 0.1%: VR = 31.6524%.
+Open-set Identification:
+        @ Rank = 1, FAR = 1%: DIR = 17.6769%.
+
+Process the 3th trial...
+
+Verification:
+        @ FAR = 0.1%: VR = 35.7827%.
+Open-set Identification:
+        @ Rank = 1, FAR = 1%: DIR = 20%.
+
+Process the 4th trial...
+
+Verification:
+        @ FAR = 0.1%: VR = 35.2562%.
+Open-set Identification:
+        @ Rank = 1, FAR = 1%: DIR = 16.8473%.
+
+Process the 5th trial...
+
+Verification:
+        @ FAR = 0.1%: VR = 33.2176%.
+Open-set Identification:
+        @ Rank = 1, FAR = 1%: DIR = 20.9192%.
+
+Process the 6th trial...
+
+Verification:
+        @ FAR = 0.1%: VR = 30.5076%.
+Open-set Identification:
+        @ Rank = 1, FAR = 1%: DIR = 20.2238%.
+
+Process the 7th trial...
+
+Verification:
+        @ FAR = 0.1%: VR = 32.2016%.
+Open-set Identification:
+        @ Rank = 1, FAR = 1%: DIR = 18.3348%.
+
+Process the 8th trial...
+
+Verification:
+        @ FAR = 0.1%: VR = 35.1637%.
+Open-set Identification:
+        @ Rank = 1, FAR = 1%: DIR = 17.7689%.
+
+Process the 9th trial...
+
+Verification:
+        @ FAR = 0.1%: VR = 35.994%.
+Open-set Identification:
+        @ Rank = 1, FAR = 1%: DIR = 17.9166%.
+
+Process the 10th trial...
+
+Verification:
+        @ FAR = 0.1%: VR = 31.6241%.
+Open-set Identification:
+        @ Rank = 1, FAR = 1%: DIR = 19.032%.
+
+Evaluation time: 6783 seconds.
+
+The fused (mu - sigma) performance:
+
+Verification:
+        @ FAR = 0.1%: VR = 30.86%.
+Open-set Identification:
+        @ Rank = 1, FAR = 1%: DIR = 17.46%.

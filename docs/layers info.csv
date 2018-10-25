@@ -1,0 +1,21 @@
+Layer	Output dim	Parameters #
+conv2d_1	110 x 110 x 32	896
+conv2d_2	108 x 108 x 64	18496
+activation_1 ReLU		
+max_pooling2d_1	54 x 54 x 64	
+conv2d_3	52 x 52 x 64	36928
+conv2d_4 	50 x 50x 128	73856
+activation_2 ReLU		
+max_pooling2d_2	25 x 25 x 128	
+conv2d_5	23 x 23 x 128	147584
+conv2d_6	21 x 21 x 256	295168
+activation_3 ReLU		
+max_pooling2d_3	10 x 10 x 256	
+conv2d_7	8 x 8 x 256	590080
+conv2d_8	6 x 6 x 512	885120
+activation_4 ReLU		
+average_pooling2d_1	1 x 1 x 512	
+flatten_1	512	
+dropout_1	512	
+dense_1	10575	36557775
+activation_5 Softmax		

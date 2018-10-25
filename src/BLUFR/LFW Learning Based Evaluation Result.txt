@@ -1,0 +1,98 @@
+learning-based (LE) descriptor
+
+Load data...
+
+Learn parameters on the development set...
+Start to train PCA...0.869 seconds.
+The best AUC: 0.238328. The best PCA dimensions: 100. The best lambda: 0.0001.
+
+Evaluation with 10 trials.
+
+Process the 1th trial...
+
+Start to train PCA...10.7 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 11.158%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 4.09768%.
+
+Process the 2th trial...
+
+Start to train PCA...16.5 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 9.61052%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 5.22445%.
+
+Process the 3th trial...
+
+Start to train PCA...21.1 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 9.397%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 2.33861%.
+
+Process the 4th trial...
+
+Start to train PCA...21.3 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 6.46442%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 1.81433%.
+
+Process the 5th trial...
+
+Start to train PCA...20.8 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 6.09786%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 3.53181%.
+
+Process the 6th trial...
+
+Start to train PCA...16.7 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 8.37084%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 4.70369%.
+
+Process the 7th trial...
+
+Start to train PCA...15.9 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 10.3247%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 4.29936%.
+
+Process the 8th trial...
+
+Start to train PCA...21.4 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 6.94186%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 1.9534%.
+
+Process the 9th trial...
+
+Start to train PCA...21.1 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 9.96458%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 1.5869%.
+
+Process the 10th trial...
+
+Start to train PCA...15.7 seconds.
+Verification:
+	@ FAR = 0.1%: VR = 9.10603%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 3.68433%.
+
+Evaluation time: 252 seconds.
+
+The fused (mu - sigma) performance:
+
+Verification:
+	@ FAR = 0.1%: VR = 7.02%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 2.02%.

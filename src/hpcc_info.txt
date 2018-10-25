@@ -1,0 +1,642 @@
+Epoch 1/1
+191s - loss: 4.8693 - acc: 0.0304
+Epoch execution time: 298.931 s
+Training range: 100 200
+10275 train samples
+Epoch 1/1
+130s - loss: 4.9876 - acc: 0.0446
+Epoch execution time: 551.248 s
+Training range: 200 300
+9463 train samples
+Epoch 1/1
+122s - loss: 5.3310 - acc: 0.0306
+Epoch execution time: 776.229 s
+Training range: 300 400
+7206 train samples
+Epoch 1/1
+91s - loss: 5.3700 - acc: 0.0361
+Epoch execution time: 953.428 s
+Training range: 400 500
+7122 train samples
+Epoch 1/1
+90s - loss: 5.4154 - acc: 0.0382
+Epoch execution time: 1115.733 s
+Training range: 500 600
+7333 train samples
+Epoch 1/1
+93s - loss: 5.5558 - acc: 0.0353
+Epoch execution time: 1302.149 s
+Training range: 600 700
+7292 train samples
+Epoch 1/1
+92s - loss: 5.3703 - acc: 0.0432
+Epoch execution time: 1473.344 s
+Training range: 700 800
+4252 train samples
+Epoch 1/1
+54s - loss: 5.9935 - acc: 0.0405
+Epoch execution time: 1576.491 s
+Training range: 800 900
+7616 train samples
+Epoch 1/1
+96s - loss: 5.2252 - acc: 0.0776
+Epoch execution time: 1745.544 s
+Training range: 900 1000
+7119 train samples
+Epoch 1/1
+90s - loss: 5.2399 - acc: 0.0455
+Epoch execution time: 1924.978 s
+2017-04-07 20:47:02
+Total execution time: 1924.978 s
+
+
+Epoch 1/1
+7987/7987 [==============================] - 107s - loss: 5.3822 - acc: 0.0329
+Epoch execution time: 180.353 s
+Training range: 1100 1200
+8126 train samples
+Epoch 1/1
+8126/8126 [==============================] - 104s - loss: 5.5518 - acc: 0.0295
+Epoch execution time: 375.911 s
+Training range: 1200 1300
+7373 train samples
+Epoch 1/1
+7373/7373 [==============================] - 93s - loss: 5.2086 - acc: 0.0537
+Epoch execution time: 532.974 s
+Training range: 1300 1400
+5439 train samples
+Epoch 1/1
+5439/5439 [==============================] - 69s - loss: 5.6320 - acc: 0.0811
+Epoch execution time: 670.254 s
+Training range: 1400 1500
+3920 train samples
+Epoch 1/1
+3920/3920 [==============================] - 49s - loss: 6.1384 - acc: 0.0707
+Epoch execution time: 755.074 s
+Training range: 1500 1600
+5197 train samples
+Epoch 1/1
+5197/5197 [==============================] - 65s - loss: 6.0882 - acc: 0.0733
+Epoch execution time: 849.988 s
+Training range: 1600 1700
+4899 train samples
+Epoch 1/1
+4899/4899 [==============================] - 62s - loss: 5.7803 - acc: 0.0547
+Epoch execution time: 946.323 s
+Training range: 1700 1800
+4277 train samples
+Epoch 1/1
+4277/4277 [==============================] - 55s - loss: 5.8060 - acc: 0.0428
+Epoch execution time: 1030.910 s
+Training range: 1800 1900
+4799 train samples
+Epoch 1/1
+4799/4799 [==============================] - 60s - loss: 5.7818 - acc: 0.0511
+Epoch execution time: 1122.399 s
+Training range: 1900 2000
+4532 train samples
+Epoch 1/1
+4532/4532 [==============================] - 58s - loss: 5.7659 - acc: 0.0609
+Epoch execution time: 1209.059 s
+2017-04-07 21:19:04
+Total execution time: 1209.059 s
+
+
+
+Epoch 1/1
+5199/5199 [==============================] - 67s - loss: 5.7667 - acc: 0.0573
+Epoch execution time: 100.616 s
+---
+Training range: 2100 2200
+5471 train samples
+Model loaded.
+5471/5471 [==============================] - 69s - loss: 5.5113 - acc: 0.0901
+Epoch execution time: 101.169 s..........] - ETA: 27s - loss: 6.2797 - acc: 0.069 ^[[3~
+---
+Training range: 2200 2300
+3925 train samples
+Model loaded.
+Epoch 1/1
+3925/3925 [==============================] - 49s - loss: 6.0589 - acc: 0.0433
+Epoch execution time: 74.281 s
+---
+Training range: 2300 2400
+5188 train samples
+Model loaded.
+Epoch 1/1
+5188/5188 [==============================] - 65s - loss: 5.6963 - acc: 0.0463
+Epoch execution time: 95.924 s
+---
+Training range: 2400 2500
+5080 train samples
+Model loaded.
+Epoch 1/1
+5080/5080 [==============================] - 64s - loss: 5.6626 - acc: 0.0500
+Epoch execution time: 91.362 s
+---
+Training range: 2500 2600
+4852 train samples
+Model loaded.
+Epoch 1/1
+4852/4852 [==============================] - 62s - loss: 5.8569 - acc: 0.0410
+Epoch execution time: 95.179 s
+---
+Training range: 2600 2700
+5769 train samples
+Model loaded.
+Epoch 1/1
+5769/5769 [==============================] - 72s - loss: 5.5609 - acc: 0.0487
+Epoch execution time: 107.696 s
+---
+Training range: 2700 2800
+5217 train samples
+Model loaded.
+Epoch 1/1
+5217/5217 [==============================] - 66s - loss: 5.6888 - acc: 0.0730
+Epoch execution time: 100.514 s
+---
+Training range: 2800 2900
+4620 train samples
+Model loaded.
+Epoch 1/1
+4620/4620 [==============================] - 58s - loss: 5.8700 - acc: 0.0513
+Epoch execution time: 91.253 s
+---
+Training range: 2900 3000
+4331 train samples
+Model loaded.
+Epoch 1/1
+4331/4331 [==============================] - 55s - loss: 5.8263 - acc: 0.0473
+Epoch execution time: 85.212 s
+---
+2017-04-07 21:37:16
+Total execution time: 943.206 s
+
+
+
+Epoch 1/1
+4743/4743 [==============================] - 61s - loss: 5.8081 - acc: 0.0890
+Epoch execution time: 94.530 s
+---
+Training range: 3100 3200
+4177 train samples
+Epoch 1/1
+4177/4177 [==============================] - 53s - loss: 5.9051 - acc: 0.0395
+Epoch execution time: 81.826 s
+---
+Training range: 3200 3300
+4244 train samples
+Epoch 1/1
+4244/4244 [==============================] - 53s - loss: 6.3100 - acc: 0.0580
+Epoch execution time: 78.473 s
+---
+Training range: 3300 3400
+4757 train samples
+Epoch 1/1
+4757/4757 [==============================] - 60s - loss: 5.9122 - acc: 0.0950
+Epoch execution time: 102.292 s
+---
+Training range: 3400 3500
+5052 train samples
+Epoch 1/1
+5052/5052 [==============================] - 64s - loss: 6.0025 - acc: 0.1073
+Epoch execution time: 104.509 s
+---
+Training range: 3500 3600
+4064 train samples
+Epoch 1/1
+4064/4064 [==============================] - 51s - loss: 5.9894 - acc: 0.0320
+Epoch execution time: 85.209 s
+---
+Training range: 3600 3700
+4493 train samples
+Epoch 1/1
+4493/4493 [==============================] - 57s - loss: 5.9597 - acc: 0.0599
+Epoch execution time: 89.255 s
+---
+Training range: 3700 3800
+5150 train samples
+Epoch 1/1
+5150/5150 [==============================] - 65s - loss: 5.6559 - acc: 0.0351
+Epoch execution time: 104.193 s
+---
+Training range: 3800 3900
+3775 train samples
+Epoch 1/1
+3775/3775 [==============================] - 49s - loss: 6.0550 - acc: 0.0344
+Epoch execution time: 85.504 s
+---
+Training range: 3900 4000
+5026 train samples
+Epoch 1/1
+5026/5026 [==============================] - 64s - loss: 5.5080 - acc: 0.0525
+Epoch execution time: 101.740 s
+---
+2017-04-07 21:57:02
+Total execution time: 927.531 s
+
+
+
+Epoch 1/1
+4581/4581 [==============================] - 60s - loss: 5.8891 - acc: 0.0378
+Epoch execution time: 95.878 s
+---
+Training range: 4100 4200
+5135 train samples
+Epoch 1/1
+5135/5135 [==============================] - 65s - loss: 5.8779 - acc: 0.0793
+Epoch execution time: 99.887 s
+---
+Training range: 4200 4300
+4831 train samples
+Epoch 1/1
+4831/4831 [==============================] - 61s - loss: 5.9185 - acc: 0.0445
+Epoch execution time: 94.411 s
+---
+Training range: 4300 4400
+5157 train samples
+Epoch 1/1
+5157/5157 [==============================] - 64s - loss: 6.4245 - acc: 0.0547
+Epoch execution time: 100.405 s
+---
+Training range: 4400 4500
+5166 train samples
+Epoch 1/1
+5166/5166 [==============================] - 65s - loss: 5.7848 - acc: 0.0699
+Epoch execution time: 101.894 s
+---
+Training range: 4500 4600
+3713 train samples
+Epoch 1/1
+3713/3713 [==============================] - 46s - loss: 6.5836 - acc: 0.0296
+Epoch execution time: 71.380 s
+---
+Training range: 4600 4700
+4326 train samples
+Epoch 1/1
+4326/4326 [==============================] - 55s - loss: 5.7315 - acc: 0.0851
+Epoch execution time: 81.251 s
+---
+Training range: 4700 4800
+4242 train samples
+Epoch 1/1
+4242/4242 [==============================] - 53s - loss: 5.7505 - acc: 0.0356
+Epoch execution time: 85.932 s
+---
+Training range: 4800 4900
+4593 train samples
+Epoch 1/1
+4593/4593 [==============================] - 58s - loss: 6.0124 - acc: 0.0388
+Epoch execution time: 94.566 s
+---
+Training range: 4900 5000
+4302 train samples
+Epoch 1/1
+4302/4302 [==============================] - 54s - loss: 5.8803 - acc: 0.0867
+Epoch execution time: 87.979 s
+---
+2017-04-07 22:13:06
+Total execution time: 913.583 s
+
+
+
+Epoch 1/1
+5345/5345 [==============================] - 69s - loss: 6.1573 - acc: 0.0425
+Epoch execution time: 102.488 s
+---
+Training range: 5100 5200
+4097 train samples
+Epoch 1/1
+4097/4097 [==============================] - 52s - loss: 5.8945 - acc: 0.0293
+Epoch execution time: 80.999 s
+---
+Training range: 5200 5300
+4789 train samples
+Epoch 1/1
+4789/4789 [==============================] - 61s - loss: 5.8976 - acc: 0.0741
+Epoch execution time: 90.215 s
+---
+Training range: 5300 5400
+4343 train samples
+Epoch 1/1
+4343/4343 [==============================] - 55s - loss: 5.9744 - acc: 0.0440
+Epoch execution time: 82.428 s
+---
+Training range: 5400 5500
+4224 train samples
+Epoch 1/1
+4224/4224 [==============================] - 53s - loss: 5.9844 - acc: 0.0670
+Epoch execution time: 82.201 s
+---
+Training range: 5500 5600
+5222 train samples
+Epoch 1/1
+5222/5222 [==============================] - 66s - loss: 5.5562 - acc: 0.0435
+Epoch execution time: 102.198 s
+---
+Training range: 5600 5700
+3836 train samples
+Epoch 1/1
+3836/3836 [==============================] - 49s - loss: 6.0119 - acc: 0.0412
+Epoch execution time: 78.302 s
+---
+Training range: 5700 5800
+4621 train samples
+Epoch 1/1
+4621/4621 [==============================] - 58s - loss: 6.0787 - acc: 0.0441
+Epoch execution time: 93.312 s
+---
+Training range: 5800 5900
+4769 train samples
+Epoch 1/1
+4769/4769 [==============================] - 60s - loss: 5.7931 - acc: 0.0591
+Epoch execution time: 94.773 s
+---
+Training range: 5900 6000
+4565 train samples
+Epoch 1/1
+4565/4565 [==============================] - 58s - loss: 5.7913 - acc: 0.0401
+Epoch execution time: 93.057 s
+---
+2017-04-07 22:29:23
+Total execution time: 899.974 s
+
+
+
+Epoch 1/1
+4983/4983 [==============================] - 65s - loss: 5.8911 - acc: 0.0801
+Epoch execution time: 97.481 s
+---
+Training range: 6100 6200
+4138 train samples
+Epoch 1/1
+4138/4138 [==============================] - 53s - loss: 5.9213 - acc: 0.0302
+Epoch execution time: 79.136 s
+---
+Training range: 6200 6300
+4508 train samples
+Epoch 1/1
+4508/4508 [==============================] - 57s - loss: 5.8942 - acc: 0.0819
+Epoch execution time: 84.734 s
+---
+Training range: 6300 6400
+5825 train samples
+Epoch 1/1
+5825/5825 [==============================] - 73s - loss: 5.3873 - acc: 0.0771
+Epoch execution time: 111.942 s
+---
+Training range: 6400 6500
+4037 train samples
+Epoch 1/1
+4037/4037 [==============================] - 51s - loss: 6.5114 - acc: 0.0535
+Epoch execution time: 76.427 s
+---
+Training range: 6500 6600
+3538 train samples
+Epoch 1/1
+3538/3538 [==============================] - 45s - loss: 6.5224 - acc: 0.0772
+Epoch execution time: 71.880 s
+---
+Training range: 6600 6700
+4644 train samples
+Epoch 1/1
+4644/4644 [==============================] - 59s - loss: 5.6929 - acc: 0.0295
+Epoch execution time: 92.399 s
+---
+Training range: 6700 6800
+4309 train samples
+Epoch 1/1
+4309/4309 [==============================] - 54s - loss: 6.5088 - acc: 0.0543
+Epoch execution time: 91.186 s
+---
+Training range: 6800 6900
+4158 train samples
+Epoch 1/1
+4158/4158 [==============================] - 53s - loss: 6.4032 - acc: 0.0584
+Epoch execution time: 86.790 s
+---
+Training range: 6900 7000
+3881 train samples
+Epoch 1/1
+3881/3881 [==============================] - 49s - loss: 6.0029 - acc: 0.0415
+Epoch execution time: 82.518 s
+---
+2017-04-07 22:48:57
+Total execution time: 874.492 s
+
+
+
+Epoch 1/1
+4587/4587 [==============================] - 60s - loss: 5.8469 - acc: 0.0429
+Epoch execution time: 92.616 s
+---
+Training range: 7100 7200
+3675 train samples
+Epoch 1/1
+3675/3675 [==============================] - 47s - loss: 6.1194 - acc: 0.0294
+Epoch execution time: 74.638 s
+---
+Training range: 7200 7300
+3185 train samples
+Epoch 1/1
+3185/3185 [==============================] - 41s - loss: 6.3671 - acc: 0.0239
+Epoch execution time: 62.436 s
+---
+Training range: 7300 7400
+4265 train samples
+Epoch 1/1
+4265/4265 [==============================] - 54s - loss: 6.1556 - acc: 0.0347
+Epoch execution time: 86.576 s
+---
+Training range: 7400 7500
+3470 train samples
+Epoch 1/1
+3470/3470 [==============================] - 44s - loss: 6.3905 - acc: 0.0274
+Epoch execution time: 69.076 s
+---
+Training range: 7500 7600
+2988 train samples
+Epoch 1/1
+2988/2988 [==============================] - 38s - loss: 7.0419 - acc: 0.0191
+Epoch execution time: 64.999 s
+---
+Training range: 7600 7700
+3855 train samples
+Epoch 1/1
+3855/3855 [==============================] - 48s - loss: 6.1951 - acc: 0.0532
+Epoch execution time: 74.112 s
+---
+Training range: 7700 7800
+3612 train samples
+Epoch 1/1
+3612/3612 [==============================] - 46s - loss: 6.3292 - acc: 0.0490
+Epoch execution time: 71.722 s
+---
+Training range: 7800 7900
+3468 train samples
+Epoch 1/1
+3468/3468 [==============================] - 44s - loss: 6.2843 - acc: 0.0285
+Epoch execution time: 68.960 s
+---
+Training range: 7900 8000
+3740 train samples
+Epoch 1/1
+3740/3740 [==============================] - 47s - loss: 6.1624 - acc: 0.0219
+Epoch execution time: 75.708 s
+---
+Training range: 8000 8100
+4020 train samples
+Epoch 1/1
+4020/4020 [==============================] - 51s - loss: 6.0232 - acc: 0.0716
+Epoch execution time: 79.057 s
+---
+Training range: 8100 8200
+3161 train samples
+Epoch 1/1
+3161/3161 [==============================] - 40s - loss: 6.7796 - acc: 0.0206
+Epoch execution time: 66.274 s
+---
+Training range: 8200 8300
+3046 train samples
+Epoch 1/1
+3046/3046 [==============================] - 39s - loss: 6.2761 - acc: 0.0220
+Epoch execution time: 67.175 s
+---
+Training range: 8300 8400
+3985 train samples
+Epoch 1/1
+3985/3985 [==============================] - 50s - loss: 6.0015 - acc: 0.0555
+Epoch execution time: 78.988 s
+---
+Training range: 8400 8500
+3478 train samples
+Epoch 1/1
+3478/3478 [==============================] - 44s - loss: 6.5404 - acc: 0.0592
+Epoch execution time: 71.555 s
+---
+Training range: 8500 8600
+3399 train samples
+Epoch 1/1
+3399/3399 [==============================] - 43s - loss: 6.3832 - acc: 0.0262
+Epoch execution time: 69.610 s
+---
+Training range: 8600 8700
+3736 train samples
+Epoch 1/1
+3736/3736 [==============================] - 47s - loss: 6.1367 - acc: 0.0236
+Epoch execution time: 78.312 s
+---
+Training range: 8700 8800
+3937 train samples
+Epoch 1/1
+3937/3937 [==============================] - 50s - loss: 7.1148 - acc: 0.0333
+Epoch execution time: 82.673 s
+---
+Training range: 8800 8900
+3859 train samples
+Epoch 1/1
+3859/3859 [==============================] - 49s - loss: 6.2239 - acc: 0.0342
+Epoch execution time: 81.645 s
+---
+Training range: 8900 9000
+2974 train samples
+Epoch 1/1
+2974/2974 [==============================] - 38s - loss: 6.5678 - acc: 0.0182
+Epoch execution time: 66.831 s
+---
+2017-04-07 23:15:12
+Total execution time: 1482.965 s
+
+
+
+
+Epoch 1/1
+3434/3434 [==============================] - 45s - loss: 6.3157 - acc: 0.0274
+Epoch execution time: 72.653 s
+---
+Training range: 9100 9200
+3060 train samples
+Epoch 1/1
+3060/3060 [==============================] - 39s - loss: 6.3493 - acc: 0.0209
+Epoch execution time: 60.013 s
+---
+Training range: 9200 9300
+4065 train samples
+Epoch 1/1
+4065/4065 [==============================] - 51s - loss: 5.8812 - acc: 0.0403
+Epoch execution time: 78.274 s
+---
+Training range: 9300 9400
+2941 train samples
+Epoch 1/1
+2941/2941 [==============================] - 38s - loss: 6.4717 - acc: 0.0187
+Epoch execution time: 62.548 s
+---
+Training range: 9400 9500
+2682 train samples
+Epoch 1/1
+2682/2682 [==============================] - 34s - loss: 6.4818 - acc: 0.0149
+Epoch execution time: 55.933 s
+---
+Training range: 9500 9600
+3413 train samples
+Epoch 1/1
+3413/3413 [==============================] - 43s - loss: 6.2314 - acc: 0.0272
+Epoch execution time: 69.108 s
+---
+Training range: 9600 9700
+2974 train samples
+Epoch 1/1
+2974/2974 [==============================] - 38s - loss: 6.3362 - acc: 0.0165
+Epoch execution time: 62.338 s
+---
+Training range: 9700 9800
+3422 train samples
+Epoch 1/1
+3422/3422 [==============================] - 43s - loss: 6.5417 - acc: 0.0172
+Epoch execution time: 67.299 s
+---
+Training range: 9800 9900
+3345 train samples
+Epoch 1/1
+3345/3345 [==============================] - 42s - loss: 6.2873 - acc: 0.0356
+Epoch execution time: 69.414 s
+---
+Training range: 9900 10000
+3151 train samples
+Epoch 1/1
+3151/3151 [==============================] - 40s - loss: 6.3804 - acc: 0.0305
+Epoch execution time: 67.179 s
+---
+Training range: 10000 10100
+3016 train samples
+Epoch 1/1
+3016/3016 [==============================] - 38s - loss: 6.5536 - acc: 0.0192
+Epoch execution time: 66.725 s
+---
+Training range: 10100 10200
+2913 train samples
+Epoch 1/1
+2913/2913 [==============================] - 36s - loss: 7.3356 - acc: 0.0154
+Epoch execution time: 63.094 s
+---
+Training range: 10200 10300
+2881 train samples
+Epoch 1/1
+2881/2881 [==============================] - 36s - loss: 7.4242 - acc: 0.0174
+Epoch execution time: 63.912 s
+---
+Training range: 10300 10400
+2885 train samples
+Epoch 1/1
+2885/2885 [==============================] - 36s - loss: 6.8299 - acc: 0.0191
+Epoch execution time: 62.550 s
+---
+Training range: 10400 10500
+2436 train samples
+Epoch 1/1
+2436/2436 [==============================] - 31s - loss: 7.7190 - acc: 0.0099
+Epoch execution time: 56.306 s
+---
+2017-04-07 23:45:33
+Total execution time: 977.345 s
